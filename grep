@@ -1,0 +1,1 @@
+grep serves looks inside one or several files for the string, or text, you specify ex: grep "binary"*.txt 
