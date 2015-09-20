@@ -1,0 +1,1 @@
+mv serves to move file ex:mv newFile ../newFile this command moves the file from the local directory to the parent directory
